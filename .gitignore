@@ -9,5 +9,7 @@ out/
 *.txt
 *.unl
 
+*.png
+
 misc_*.py
 not_mine_*.py
