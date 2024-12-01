@@ -9,4 +9,5 @@ out/
 *.txt
 *.unl
 
+misc_*.py
 not_mine_*.py
