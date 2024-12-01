@@ -1,0 +1,11 @@
+.idea/
+__pycache__/
+out/
+*.in
+*.out
+*.pyc
+*.exe
+*.txt
+*.unl
+
+not_mine_*.py
